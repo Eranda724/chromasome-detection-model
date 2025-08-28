@@ -1,0 +1,344 @@
+[
+  {
+    "id": 13,
+    "filename": "chromosome_013_q0.83.jpg",
+    "bbox": [
+      8,
+      0,
+      114,
+      20
+    ],
+    "area": 1536,
+    "aspect_ratio": 5.7,
+    "stability_score": 0.9672657251358032,
+    "predicted_iou": 0.9904442429542542,
+    "quality_score": 0.8284631717478657,
+    "dimensions": [
+      124,
+      25
+    ]
+  },
+  {
+    "id": 11,
+    "filename": "chromosome_011_q0.74.jpg",
+    "bbox": [
+      345,
+      401,
+      40,
+      127
+    ],
+    "area": 2284,
+    "aspect_ratio": 3.175,
+    "stability_score": 0.9718979597091675,
+    "predicted_iou": 0.9538270235061646,
+    "quality_score": 0.743045852571994,
+    "dimensions": [
+      50,
+      137
+    ]
+  },
+  {
+    "id": 2,
+    "filename": "chromosome_002_q0.71.jpg",
+    "bbox": [
+      292,
+      200,
+      79,
+      50
+    ],
+    "area": 1309,
+    "aspect_ratio": 1.58,
+    "stability_score": 0.9735848903656006,
+    "predicted_iou": 0.9769593477249146,
+    "quality_score": 0.7123867994030779,
+    "dimensions": [
+      89,
+      60
+    ]
+  },
+  {
+    "id": 6,
+    "filename": "chromosome_006_q0.71.jpg",
+    "bbox": [
+      248,
+      91,
+      49,
+      76
+    ],
+    "area": 1429,
+    "aspect_ratio": 1.5510204081632653,
+    "stability_score": 0.9731034636497498,
+    "predicted_iou": 0.9488697052001953,
+    "quality_score": 0.7109341844716827,
+    "dimensions": [
+      59,
+      86
+    ]
+  },
+  {
+    "id": 1,
+    "filename": "chromosome_001_q0.69.jpg",
+    "bbox": [
+      236,
+      24,
+      106,
+      44
+    ],
+    "area": 1725,
+    "aspect_ratio": 2.409090909090909,
+    "stability_score": 0.9782359600067139,
+    "predicted_iou": 0.9815442562103271,
+    "quality_score": 0.6892098978376466,
+    "dimensions": [
+      116,
+      54
+    ]
+  },
+  {
+    "id": 16,
+    "filename": "chromosome_016_q0.69.jpg",
+    "bbox": [
+      205,
+      541,
+      88,
+      47
+    ],
+    "area": 1730,
+    "aspect_ratio": 1.872340425531915,
+    "stability_score": 0.9726495742797852,
+    "predicted_iou": 0.9711078405380249,
+    "quality_score": 0.6880261407652627,
+    "dimensions": [
+      98,
+      57
+    ]
+  },
+  {
+    "id": 3,
+    "filename": "chromosome_003_q0.68.jpg",
+    "bbox": [
+      261,
+      73,
+      130,
+      24
+    ],
+    "area": 1968,
+    "aspect_ratio": 5.416666666666667,
+    "stability_score": 0.9759157299995422,
+    "predicted_iou": 0.9655071496963501,
+    "quality_score": 0.6790685868726116,
+    "dimensions": [
+      140,
+      34
+    ]
+  },
+  {
+    "id": 12,
+    "filename": "chromosome_012_q0.66.jpg",
+    "bbox": [
+      431,
+      568,
+      58,
+      25
+    ],
+    "area": 1037,
+    "aspect_ratio": 2.32,
+    "stability_score": 0.973358690738678,
+    "predicted_iou": 0.9037123322486877,
+    "quality_score": 0.6618420217238168,
+    "dimensions": [
+      68,
+      35
+    ]
+  },
+  {
+    "id": 14,
+    "filename": "chromosome_014_q0.65.jpg",
+    "bbox": [
+      163,
+      168,
+      32,
+      75
+    ],
+    "area": 1232,
+    "aspect_ratio": 2.34375,
+    "stability_score": 0.9352574348449707,
+    "predicted_iou": 0.9165856838226318,
+    "quality_score": 0.6530990518398123,
+    "dimensions": [
+      42,
+      85
+    ]
+  },
+  {
+    "id": 15,
+    "filename": "chromosome_015_q0.65.jpg",
+    "bbox": [
+      122,
+      440,
+      76,
+      35
+    ],
+    "area": 1337,
+    "aspect_ratio": 2.1714285714285713,
+    "stability_score": 0.9756995439529419,
+    "predicted_iou": 0.9884145259857178,
+    "quality_score": 0.6516134528155908,
+    "dimensions": [
+      86,
+      45
+    ]
+  },
+  {
+    "id": 4,
+    "filename": "chromosome_004_q0.64.jpg",
+    "bbox": [
+      295,
+      309,
+      28,
+      57
+    ],
+    "area": 907,
+    "aspect_ratio": 2.0357142857142856,
+    "stability_score": 0.9803493618965149,
+    "predicted_iou": 0.9639281630516052,
+    "quality_score": 0.6421323656509094,
+    "dimensions": [
+      38,
+      67
+    ]
+  },
+  {
+    "id": 10,
+    "filename": "chromosome_010_q0.64.jpg",
+    "bbox": [
+      364,
+      381,
+      28,
+      53
+    ],
+    "area": 846,
+    "aspect_ratio": 1.8928571428571428,
+    "stability_score": 0.9801169633865356,
+    "predicted_iou": 0.9640353918075562,
+    "quality_score": 0.6372530481668692,
+    "dimensions": [
+      38,
+      63
+    ]
+  },
+  {
+    "id": 7,
+    "filename": "chromosome_007_q0.64.jpg",
+    "bbox": [
+      302,
+      410,
+      29,
+      81
+    ],
+    "area": 1305,
+    "aspect_ratio": 2.793103448275862,
+    "stability_score": 0.9712774157524109,
+    "predicted_iou": 0.9810135364532471,
+    "quality_score": 0.6352183687790273,
+    "dimensions": [
+      39,
+      91
+    ]
+  },
+  {
+    "id": 17,
+    "filename": "chromosome_017_q0.63.jpg",
+    "bbox": [
+      203,
+      49,
+      23,
+      87
+    ],
+    "area": 1362,
+    "aspect_ratio": 3.782608695652174,
+    "stability_score": 0.9854333400726318,
+    "predicted_iou": 0.9796353578567505,
+    "quality_score": 0.6289229592407236,
+    "dimensions": [
+      33,
+      97
+    ]
+  },
+  {
+    "id": 9,
+    "filename": "chromosome_009_q0.60.jpg",
+    "bbox": [
+      553,
+      404,
+      51,
+      33
+    ],
+    "area": 819,
+    "aspect_ratio": 1.5454545454545454,
+    "stability_score": 0.981840193271637,
+    "predicted_iou": 0.9763736724853516,
+    "quality_score": 0.6023943891821405,
+    "dimensions": [
+      61,
+      43
+    ]
+  },
+  {
+    "id": 5,
+    "filename": "chromosome_005_q0.60.jpg",
+    "bbox": [
+      340,
+      306,
+      54,
+      22
+    ],
+    "area": 847,
+    "aspect_ratio": 2.4545454545454546,
+    "stability_score": 0.9721577763557434,
+    "predicted_iou": 0.9637482166290283,
+    "quality_score": 0.6001357648612559,
+    "dimensions": [
+      64,
+      32
+    ]
+  },
+  {
+    "id": 8,
+    "filename": "chromosome_008_q0.60.jpg",
+    "bbox": [
+      243,
+      499,
+      61,
+      31
+    ],
+    "area": 988,
+    "aspect_ratio": 1.967741935483871,
+    "stability_score": 0.9849548935890198,
+    "predicted_iou": 0.9859585165977478,
+    "quality_score": 0.598589473446596,
+    "dimensions": [
+      71,
+      41
+    ]
+  },
+  {
+    "id": 0,
+    "filename": "chromosome_000_q0.59.jpg",
+    "bbox": [
+      407,
+      182,
+      53,
+      24
+    ],
+    "area": 803,
+    "aspect_ratio": 2.2083333333333335,
+    "stability_score": 0.9790123701095581,
+    "predicted_iou": 0.9869120121002197,
+    "quality_score": 0.5928570268727986,
+    "dimensions": [
+      63,
+      34
+    ]
+  }
+]
